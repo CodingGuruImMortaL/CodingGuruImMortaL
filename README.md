@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CodingGuruImMortaL
+- 👀 I’m interested in Discord.js and pygame
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on Discord bots and pygame projects
+- 📫 Reach me on Discord (Coding Guru ImMortaL#2290)
